@@ -1,0 +1,14 @@
+commande:
+/f f 
+/f create
+/f disband
+/f claim
+/f autoclaim
+/f unclaim
+/ff
+/fa
+/fe
+GUI:
+panel de configuration du pays
+création de pays
+liste de pays
